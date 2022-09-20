@@ -12,5 +12,8 @@ Included with the file should be
 2 - 4 alternate palettes
 3 - 20 different animations!
 
+All animations can be previewed here
+https://youtu.be/IkCJAu6Qut0
+
 
 NOTE: the wall jump and wall slide face different directions. This should be taken into account when implementing. This is because games often require players to point towards the wall when wall sliding, but when jumping away from the wall, the player will quickly turn away from the wall and snap in the opposite direction and the animations reflect this use case.
